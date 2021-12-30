@@ -1,4 +1,4 @@
-# kheiron-s-nitro
+# shitty generator
 **the damn free nitro thing.**
 
 **i've added +300 proxies for checking.**
