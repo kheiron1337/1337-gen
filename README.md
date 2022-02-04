@@ -7,6 +7,7 @@
 **UPDATE NOTE 04/02/2022**
 ‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
 I wasn't thinking of bringing an update to this shitty software, but I saw that there were a lot of users. So there is update notes.
+‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
 - added new style. 04/02/2022
 - the minimum number of proxies has been increased to 200.
 - result of 7/24 check on virtual machine; 392000 all, 782 working, 385721 invalid, 5407 error/revoked
