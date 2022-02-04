@@ -3,6 +3,10 @@
 
 - open generator.exe, write c:\whereareyoudroppedarchive\proxies.txt
 - wait for check process. boom! free nitro thanks to me.
+‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
+‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
+‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
+‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
 
 **UPDATE NOTES 04/02/2022**
 ‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
