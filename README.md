@@ -1,5 +1,5 @@
 # shitty generator
-**tHow to use fxcking generator**
+**How to use fxcking generator**
 
 - open generator.exe, write c:\whereareyoudroppedarchive\proxies.txt
 - wait for check process. boom! free nitro thanks to me.
