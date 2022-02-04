@@ -6,6 +6,7 @@
 
 **UPDATE NOTE 04/02/2022**
 ‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
+‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
 I wasn't thinking of bringing an update to this shitty software, but I saw that there were a lot of users. So there is update notes.
 ‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
 - added new style. 04/02/2022
