@@ -11,7 +11,7 @@
 **UPDATE NOTES 04/02/2022**
 ‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
 ‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
-I wasn't thinking of bringing an update to this shitty software, but I saw that there were a lot of users. So there is update notes.
+I wasn't thinking of release an update to this shitty software, but I saw that there were a lot of users. So there is update notes.
 ‏‏‏‏‏‏‏‏   ‏‏‏‏‏‏‏‏   
 - added new style. 
 - the minimum number of proxies has been increased to 200.
